@@ -11,13 +11,3 @@
 |[二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)|（简单）|✅|
 |[二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)|（中等）|✅|
 |[二叉树的层序遍历II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)|（中等）|❌|
-
-
-
-
-<style>
-table
-{
-    margin: auto;
-}
-</style>
